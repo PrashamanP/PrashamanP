@@ -1,19 +1,31 @@
-👋 Exploring the Frontiers of AI/ML 🚀
+# Hi there! 👋 I'm Prashaman Pokharel.
 
-🤖 Aspiring AI/ML Enthusiast | 🌐 Tech Explorer | 📊 Data Geek
+🧠 AI and ML Enthusiast | 📊 Data Explorer | 💻 Code Ninja
 
-🔍 Constantly curious about the mysteries hidden within data and the limitless possibilities AI holds.
+I'm passionate about leveraging AI/ML to solve real-world problems and share my journey on GitHub. Here's a quick snapshot of my profile:
 
-🌱 On a journey to decode the algorithms shaping our world, one line of code at a time.
+🚀 **Current Focus:** Federated learning for healthcare.
 
-🔬 Passionate about leveraging data-driven insights to unravel complex challenges and drive informed decisions.
+💡 **Key Skills:** Deep Learning, Data Analysis
 
-💡 Turning coffee into code | ☕ Fuelled by caffeine and a determination to push the boundaries of what's possible.
+🔬 **Education:** B.Tech in Computer science.
 
-🚀 Building, breaking, learning, and iterating – because in the world of AI/ML, the only constant is innovation.
+🌐 **Connect with Me:** [LinkedIn](https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/prashaman-pokharel-491bb7214/))
 
-🌟 Let's connect the dots between data points and create a smarter tomorrow together! 🌐🤝
+📦 **Highlighted Projects:** 
 
-📚 Lifelong learner on an odyssey through the realms of AI/ML – join me in this exciting journey of discovery!
+- [Project 1 Name](link-to-project-1): [Jobility-Employment Portal for differently abled people.]
+- [Project 2 Name](https://github.com/PrashamanP/Stock-Portfolio-optimization/blob/main/fin-analysis-portfolio-allocation-optimization.ipynb): [Stock portfolio optimisation.]
 
-#CodeAndCuriosity #DataWizardry #AIExploration
+📕 **Recent Publications:** 
+
+- [Title of Publication 1](link-to-publication-1)
+- [Title of Publication 2](link-to-publication-2)
+
+📬 **Get in Touch:** Open to collaborations or discussions. Feel free to [email me](mailto:pra) or start a conversation in my repositories.
+
+📈 **GitHub Stats:** 
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrashamanP&show_icons=true)
+
+Let's build a smarter future together! 🤖
