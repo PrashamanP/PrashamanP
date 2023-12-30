@@ -10,7 +10,7 @@ I'm passionate about leveraging AI/ML to solve real-world problems and share my 
 
 🔬 **Education:** B.Tech in Computer science.
 
-🌐 **Connect with Me:** [LinkedIn](https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/prashaman-pokharel-491bb7214/))
+🌐 **Connect with Me:** [LinkedIn](https://www.linkedin.com/in/prashaman-pokharel-491bb7214/)
 
 📦 **Highlighted Projects:** 
 
