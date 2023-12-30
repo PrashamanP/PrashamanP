@@ -21,8 +21,5 @@ I'm passionate about leveraging AI/ML to solve real-world problems and share my 
 
 📬 **Get in Touch:** Open to collaborations or discussions. Feel free to [email me](mailto:prashamanpokharel15@gmail.com) or start a conversation in my repositories.
 
-📈 **GitHub Stats:** 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrashamanP&show_icons=true)
 
-Let's build a smarter future together! 🤖
