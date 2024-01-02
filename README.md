@@ -12,10 +12,7 @@ I'm passionate about leveraging AI/ML to solve real-world problems and share my 
 
 🌐 **Connect with Me:** [LinkedIn](https://www.linkedin.com/in/prashaman-pokharel-491bb7214/)
 
-📦 **Highlighted Projects:** 
 
-- [Project 1 Name](link-to-project-1): [Jobility-Employment Portal for differently abled people.]
-- [Project 2 Name](https://github.com/PrashamanP/Stock-Portfolio-optimization/blob/main/fin-analysis-portfolio-allocation-optimization.ipynb): [Stock portfolio optimisation.]
 
 
 
