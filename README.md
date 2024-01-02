@@ -2,7 +2,7 @@
 
 🧠 AI and ML Enthusiast | 📊 Data Explorer | 💻 programmer
 
-## 👩‍💻 About Me
+## 👨‍💻 About Me
 
 I am a dynamic and motivated engineering student currently pursuing my undergraduate degree in Computer Science and Engineering at the Vellore Institute of Technology. My interests span AI in healthcare, deep learning, big data, blockchain, and cybersecurity projects. Actively engaged in courses and events, I am now ready to embark on my journey towards a master's degree.
 
