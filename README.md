@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Prashaman Pokharel.
 
-🧠 AI and ML Enthusiast | 📊 Data Explorer | 💻 Code Ninja
+🧠 AI and ML Enthusiast | 📊 Data Explorer | 💻 programmer
 
 I'm passionate about leveraging AI/ML to solve real-world problems and share my journey on GitHub. Here's a quick snapshot of my profile:
 
