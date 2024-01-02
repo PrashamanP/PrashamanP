@@ -5,14 +5,6 @@
 I'm passionate about leveraging AI/ML to solve real-world problems and share my journey on GitHub. Here's a quick snapshot of my profile:
 
 🚀 **Current Focus:** 
-
-💡 **Key Skills:** Deep Learning, Data Analysis
-
-🔬 **Education:** B.Tech in Computer science.
-
-🌐 **Connect with Me:** [LinkedIn](https://www.linkedin.com/in/prashaman-pokharel-491bb7214/)
-
-
 🎓 Education
 
 Vellore Institute of Technology (2020-2024)
@@ -56,18 +48,18 @@ Leveraged EfficientNet-B0 and state-of-the-art techniques for superior performan
 Experimented on a large-scale dataset, showcasing better results than existing literature.
 Presented guidelines for transfer learning and imbalanced image classification.
 
-🛠️ Technical Skills
+💡 Technical Skills
 
 Expertise
-Research, Machine & Deep learning, AI for Healthcare, Computational biology, Computer Vision, Image Processing, Federated Learning, Information Security, Data Structures, and Algorithms, LLMs, and Automation
-Languages
+
+Research, Machine & Deep learning, AI for Healthcare, Computational biology, Computer Vision, Image Processing, Federated Learning, Information Security, Data Structures, and Algorithms, LLMs, and Automation Languages
 
 Python, R, Java, C, C++, HTML/CSS, JavaScript, Matlab, SQL, PHP, cURL, Shell, Bash
 
 Developer Tools
 
 VS Code, Anaconda, PyCharm, Cloud (Azure/GCP/AWS), Docker, Git, Tableau, PowerBI
-]
+
 Technologies
 
 Ubuntu, Kali Linux, MacOS, QEMU, VirtualBox, Cisco Packet Tracer, Wireshark, MongoDB, ChatGPT/Bard, DataBricks, Microsoft Office
@@ -105,6 +97,8 @@ Feel free to explore my projects and contributions! 🚀
 
 
 📬 **Get in Touch:** Open to collaborations or discussions. Feel free to [email me](mailto:prashamanpokharel15@gmail.com) or start a conversation in my repositories.
+
+🌐 **Connect with Me:** [LinkedIn](https://www.linkedin.com/in/prashaman-pokharel-491bb7214/)
 
 
 
