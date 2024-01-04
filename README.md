@@ -14,7 +14,6 @@ I am a dynamic and motivated engineering student currently pursuing my undergrad
 
 - **St. Xavier’s School, Jawalakhel, Nepal (2017-2019)**
   - School Leaving Certificate (+2)
-  - GPA: 3.29/4
 
 ## 📚 Research Projects
 
