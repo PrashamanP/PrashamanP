@@ -29,7 +29,7 @@ I am a dynamic and motivated engineering student currently pursuing my undergrad
 
 ## 💼 Work Experience
 
-### Data Analyst Intern - Karjanha Municipality Siraha, Madhesh Province (Mar 23-Aug 23)
+### Data Analyst Intern - Municipality (Mar 23-Aug 23)
 - Collaborated with various municipal departments to analyze citizen services data.
 - Analyzed social media and online engagement data, providing insights into public sentiment.
 - Analyzed dengue-related data for targeted prevention and intervention strategies.
