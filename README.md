@@ -10,7 +10,6 @@ I am a dynamic and motivated engineering student currently pursuing my undergrad
 
 - **Vellore Institute of Technology (2020-2024)**
   - Bachelor of Technology in Computer Science
-  - CGPA: 8.08/10
 
 - **St. Xavier’s School, Jawalakhel, Nepal (2017-2019)**
   - School Leaving Certificate (+2)
