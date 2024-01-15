@@ -93,7 +93,7 @@ Feel free to explore my projects and contributions! 🚀
 
 🌐 **Connect with Me:** [LinkedIn](https://www.linkedin.com/in/prashaman-pokharel-491bb7214/)
 
-https://prashamanp.github.io/PrashamanPokheral/
+
 
 
 
