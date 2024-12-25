@@ -8,7 +8,7 @@ I am a dynamic and motivated engineering student currently pursuing my master's 
 
 ## 🎓 Education
 
-- **Carnegie Mellon University (2020-2024)**
+- **Carnegie Mellon University (2024-2025)**
   - Master of Information Systems Management, Business Intelligence and Data Analytics
 
 - **Vellore Institute of Technology (2020-2024)**
