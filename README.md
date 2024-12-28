@@ -78,12 +78,12 @@ I am a dynamic and motivated engineering student currently pursuing my master's 
 
 ## 🏆 Awards
 
-- **An active member of the Heinz Data Analytics and Consulting Club
-- **Mathematics Tutor at Personalized Learning Squared, affiliated with CMU School of Computer Science and Stanford University
-- **	Led the group in multiple hackathons, including the Smart India Hackathon and internal competitions 
-- **STUDY IN INDIA Scholarship:** Merit scholarship of 12,000 USD for undergraduate studies.
-- **MUN/Debate Achievements:** Victory in numerous national and international Model United Nations, debate, and extempore events.
-- **Volunteering and Community Service Awards:** Recognized by various governmental organizations & NGOs for outstanding contributions to volunteering and community service.
+- An active member of the Heinz Data Analytics and Consulting Club
+- Mathematics Tutor at Personalized Learning Squared, affiliated with CMU School of Computer Science and Stanford University
+- Led the group in multiple hackathons, including the Smart India Hackathon and internal competitions 
+- STUDY IN INDIA Scholarship:** Merit scholarship of 12,000 USD for undergraduate studies.
+- MUN/Debate Achievements:** Victory in numerous national and international Model United Nations, debate, and extempore events.
+- Volunteering and Community Service Awards:** Recognized by various governmental organizations & NGOs for outstanding contributions to volunteering and community service.
 
 Feel free to explore my projects! 🚀
 
