@@ -55,7 +55,7 @@ I am a dynamic and motivated engineering student currently pursuing my master's 
 - Research, Machine & Deep learning, AI for Healthcare, Computational biology, Computer Vision, Image Processing, Federated Learning, Information Security, Data Structures, and Algorithms, LLMs, and Automation
 
 ### Languages
-- Python, R, Java, C, C++, HTML/CSS, JavaScript, SQL, Shell, Bash
+- Python, Java, C, HTML/CSS, JavaScript, SQL, Shell, Bash
 
 ### Developer Tools
 - VS Code, Anaconda, PyCharm, Cloud (Azure/GCP/AWS), Docker, Git, Tableau, PowerBI
