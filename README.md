@@ -1,98 +1,102 @@
 # Hi there! 👋 I'm Prashaman Pokharel.
 
-🧠 AI and ML Enthusiast | 📊 Data Explorer | 💻 programmer
+🚀 **Aspiring Data Scientist | Data Engineer | AI & ML Enthusiast | Software Developer | Problem Solver**
+
+I’m currently pursuing my Master's degree in **Information Systems Management** at **Carnegie Mellon University**, with a focus on **Business Intelligence and Data Analytics**. My journey blends a deep understanding of **Data Science, Machine Learning, and AI** with hands-on experience in **Backend Development** and **Cloud Computing**. I'm passionate about tackling real-world challenges through innovative technologies, and I'm currently seeking a **Summer 2025 Internship** to apply my skills and drive impact!
 
 ## 👨‍💻 About Me
 
-I am a dynamic and motivated engineering student currently pursuing my master's degree in Information Systems Management, Business Intelligence and Data Analytics  track at Carnegie Mellon University. My interests span Big Data,Data Analytics, Deep Learning, Machine Learning, and cybersecurity . I am Actively engaged in courses and events. I am now looking for an internship for summer 2025
+I thrive in environments where I can blend **engineering, analytics, and creative problem-solving** to deliver impactful solutions. Whether it's building intelligent systems, analyzing complex data, or developing scalable applications, I bring a strong **technical foundation** and a commitment to excellence.
+
+🔹 **Current Role**: Engineer at **Tric**, a Carnegie Mellon-based EdTech startup – developing innovative AI-driven features and dynamic dashboards using React, Tailwind CSS, and OpenAI.  
+🔹 **Technical Interests**: AI, Machine Learning, LLM, Data Modeling, Business Intelligence, Data Analytics, Software Engineering, Cloud Computing.  
+🔹 **Looking for**: A summer internship in Data Science| Data Engineer | AI/ML Engineer | Software where I can contribute to meaningful projects while continuing to grow professionally.
 
 ## 🎓 Education
 
-- **Carnegie Mellon University (2024-2025)**
-  - Master of Information Systems Management, Business Intelligence and Data Analytics
+### **Carnegie Mellon University** – Pittsburgh, PA (2024-2025)  
+**Master of Information Systems Management**  
+Focus: Business Intelligence and Data Analytics  
 
-- **Vellore Institute of Technology (2020-2024)**
-  - Bachelor of Technology in Computer Science
+### **Vellore Institute of Technology** – Vellore, India (2020-2024)  
+**Bachelor of Technology in Computer Science and Engineering**  
+Focus: Data Structures, Algorithms, Data Science, NLP, and Generative AI  
 
-## 📚 Research Projects
+## 🔍 Research and Academic Projects
 
-### 1. [Medical Analysis Toolkit with Digital Mask Recognition](Research-Paper-Link)
-- Awaiting Publication
-- Developed a toolkit incorporating LSTM and CNN for COVID-19 news summarization and mask detection.
-- Potential applications in automatic mask adherence monitoring in CCTV footage.
 
-### 2. Enhancing Traffic Management and Privacy
-- Ongoing Research Project
-- Developing an advanced traffic management system with Siamese networks and real-time analytics.
-- Utilizing Kafka, Siamese networks, and Apache Druid for traffic analysis and privacy preservation.
+### ⚖️ **Predicting Body Mass Index (BMI) Using Machine Learning**  
+*September 2023 – December 2023*  
+- Developed a classification model to predict BMI categories using **SMOTE** and **XGBoost**.  
+- Processed a dataset of 2,000+ samples with multiple models to increase performance by 30%.  
+[https://github.com/PrashamanP/Predicting-Body-Mass-Index-BMI-Using-Machine-Learning-Algorithms](#)
+
+
+### 🚗 **Optimizing Urban Traffic Management with Real-Time Analytics**  
+*January 2024 – April 2024*  
+- Designed a real-time traffic estimation system using **Apache Kafka** and **Federated Learning**.  
+- Integrated **Siamese Networks** for traffic density classification and **privacy-preserving analytics**.  
+- Developed scalable solutions for smart cities and enhanced traffic prediction accuracy.  
+[https://drive.google.com/file/d/1HHNvcNNkd1dcGeYReQ92Rg3pmv1A-EPz/view?usp=sharing](#)
+
+### 🎧 **EchoReads: Smart Audiobook Recommendation System**  
+*August 2024 – November 2024*  
+- Built a **content-based recommendation engine** using **TF-IDF**, **K-Means**, and **cosine similarity**.  
+- Processed over 200,000 metadata entries using **Pandas** and **NumPy**, providing personalized audiobook suggestions.  
+- Deployed the system on **AWS EC2** with **Streamlit** for interactive and scalable usage.  
+[https://github.com/PrashamanP/Smart-Audiobook-Recommendation-System](#)
+
+
+
+### ♿ **InNeed: Job Portal for Physically Challenged Individuals**  
+*September 2023 – December 2023*  
+- Created a **web-based job portal** with gesture control and AI-powered chat support for the physically challenged.  
+- Integrated **eye-control API** and **AI chatbot** to improve accessibility.  
+[https://github.com/PrashamanP/A-Job-Portal-for-Physically-Challenged-People-](#)
 
 ## 💼 Work Experience
 
-### Data Analyst Intern - Gaur Municipality (Mar 23-Aug 23)
-- Collaborated with various municipal departments to analyze citizen services data.
-- Analyzed social media and online engagement data, providing insights into public sentiment.
-- Analyzed dengue-related data for targeted prevention and intervention strategies.
+### **Engineer** – **Tric (CMU-Based EdTech Startup)** – Pittsburgh, PA  
+*January 2025 – Present*  
+- Developed a dynamic student dashboard using **React**, **Tailwind CSS**, and **MongoDB**.  
+- Integrated **OpenAI API** for AI-driven features like **OCR extraction** and **syllabus parsing**.  
+- Engineered user authentication flows using **OAuth**, **Node.js**, and **Express.js**.  
+[https://drive.google.com/file/d/1sw4wQWIy5HOlfDImIXum7oIupNNuiTcA/view?usp=sharing](#)
 
-## 🚀 Projects
-
-### 1. Real-Time Pedestrian Detection – Social Distancing
-- Used YOLOV3 for object recognition to identify humans in image sequences.
-- Implemented social distancing violation detection using Euclidean distance.
-- Tracking algorithm to monitor individuals in video sequences.
-
-### 2. Jobility: A Job Portal for Physically Challenged People
-- A platform linking companies with physically challenged job seekers.
-- Aiming to facilitate employment for people with physical limitations.
-
-### 3. Imbalanced Breast Cancer Classification Using Federated Learning
-- Leveraged EfficientNet-B0 and state-of-the-art techniques for superior performance.
-- Experimented on a large-scale dataset, showcasing better results than existing literature.
-- Presented guidelines for transfer learning and imbalanced image classification.
+### **Data Science Intern** – **Gaur Municipality** – Nepal  
+*March 2023 – August 2023*  
+- Created an automated **ETL pipeline** for processing over 2,000 citizen service requests, improving service response times by 40%.  
+- Analyzed **public health data** using **Tableau** to guide interventions for dengue outbreak control.  
+- Migrated **500+ database objects** from **Snowflake** to **AWS S3** for seamless data management.  
+(#)
 
 ## 🛠️ Technical Skills
 
-### Expertise
-- Research, Machine & Deep learning, AI for Healthcare, Computational biology, Computer Vision, Image Processing, Federated Learning, Information Security, Data Structures, and Algorithms, LLMs, and Automation
+### **Languages & Frameworks**  
+- **Python** (NumPy, Pandas, Scikit-learn, PyTorch, TensorFlow, Keras), **SQL**, **Java**, , **HTML/CSS**  
+- **Machine Learning** (Regression, Clustering, PCA, Classification, A/B Testing, Statistical Modeling)  
+- **Cloud** (AWS, Kafka, Hadoop, Spark, PySpark)  
+- **Developer Tools** (Git, Jenkins, VS Code, Docker, Selenium, Scrapy)
 
-### Languages
-- Python, Java, C, HTML/CSS, JavaScript, SQL, Shell, Bash
+### **Technologies & Platforms**  
+- **Apache Kafka**, **Hadoop**, **AWS S3/ECS**, **Tableau**, **Power BI**, **MongoDB**, **Streamlit**, **Flask**
 
-### Developer Tools
-- VS Code, Anaconda, PyCharm, Cloud (Azure/GCP/AWS), Docker, Git, Tableau, PowerBI
+## 🏆 Leadership & Extracurricular Activities
 
-### Technologies
-- Ubuntu, Kali Linux, MacOS, QEMU, VirtualBox, Cisco Packet Tracer, Wireshark, MongoDB, ChatGPT/Bard, Microsoft Office
+- **Core Committee Member** – **CMU Graduate Entrepreneurship Club** & **Heinz Data Analytics Club**  
+- **Hackathon Champion** – Multiple wins at **Tartan Hackathon**, **Smart India Hackathon**, and other internal hackathons.  
+- **Mathematics Tutor** – **Personalized Learning Squared**, affiliated with **CMU** and **Stanford University**.
 
-### Frameworks
-- Tensorflow, PyTorch, Keras, YOLO, Scikit-learn, OpenCV, Fastai, TensorFlow Federated, Apache Kafka, Apache Druid, ONNX, Flask, Django, Dash, Streamlit
+### **Awards & Recognitions**  
+- **STUDY IN INDIA Scholarship** – Merit-based award of $12,000.
+- **CMU Merit Scholarship**- Award of 20% of tuition fee
+- **MUN/Debate Achievements** – Victory in national and international Model United Nations and debate events.  
+- **Community Service Awards** – Recognized for outstanding volunteer efforts with NGOs and government organizations.
 
-### Softskills
-- Leadership, Management, Teamwork, Communication, Creative thinking, Analytical, and problem-solving
+## 📬 Let's Connect!  
+I’m always open to discussions, collaborations, or exciting opportunities! Feel free to reach out via [email](mailto:ppokhare@andrew.cmu.edu) or connect with me on [LinkedIn](https://www.linkedin.com/in/prashamanpok). 
 
-## 🌐 Leadership / Extracurricular Activities
-
-- Core Committee Member in various IEEE chapters, guiding peers, and conducting technical sessions.
-- Participation in multiple hackathons, including Smart India Hackathon and VIT internal Hackathons.
-- Engaged in freelancing during the COVID-19 pandemic, adapting to remote work opportunities.
-- Enthusiastic about swimming, singing, football, and cricket.
-
-## 🏆 Awards
-
-- An active member of the Heinz Data Analytics and Consulting Club
-- Mathematics Tutor at Personalized Learning Squared, affiliated with CMU School of Computer Science and Stanford University
-- Led the group in multiple hackathons, including the Smart India Hackathon and internal competitions 
-- STUDY IN INDIA Scholarship:** Merit scholarship of 12,000 USD for undergraduate studies.
-- MUN/Debate Achievements:** Victory in numerous national and international Model United Nations, debate, and extempore events.
-- Volunteering and Community Service Awards:** Recognized by various governmental organizations & NGOs for outstanding contributions to volunteering and community service.
-
-Feel free to explore my projects! 🚀
-
-
-
-
-📬 **Get in Touch:** Open to collaborations or discussions. Feel free to [email me](mailto:ppokhare@andrew.cmu.edu) or start a conversation in my repositories.
-
-🌐 **Connect with Me:** [LinkedIn](https://www.linkedin.com/in/prashamanpok)
+Let’s create something amazing together!
 
 
 
