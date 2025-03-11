@@ -2,7 +2,7 @@
 
 🚀 **Aspiring Data Scientist | Data Engineer | AI & ML Enthusiast | Software Developer | Problem Solver**
 
-I’m currently pursuing my Master's degree in **Information Systems Management** at **Carnegie Mellon University**, with a focus on **Business Intelligence and Data Analytics**. My journey blends a deep understanding of **Data Science, Machine Learning, and AI** with hands-on experience in **Backend Development** and **Cloud Computing**. I'm passionate about tackling real-world challenges through innovative technologies, and I'm currently seeking a **Summer 2025 Internship** to apply my skills and drive impact!
+I’m currently pursuing my Master's degree in **Information Systems Management** at **Carnegie Mellon University**, with a focus on **Business Intelligence and Data Analytics**. My journey blends a deep understanding of **Data Science, Machine Learning,Big Data and AI** with hands-on experience in **Backend Development** and **Cloud Computing**. I'm passionate about tackling real-world challenges through innovative technologies, and I'm currently seeking a **Summer 2025 Internship** to apply my skills and drive impact!
 
 ## 👨‍💻 About Me
 
