@@ -29,7 +29,7 @@ Focus: Data Structures, Algorithms, Data Science, NLP, and Generative AI
 *September 2023 – December 2023*  
 - Developed a classification model to predict BMI categories using **SMOTE** and **XGBoost**.  
 - Processed a dataset of 2,000+ samples with multiple models to increase performance by 30%.  
-[https://github.com/PrashamanP/Predicting-Body-Mass-Index-BMI-Using-Machine-Learning-Algorithms](#)
+  [Github](https://github.com/PrashamanP/Predicting-Body-Mass-Index-BMI-Using-Machine-Learning-Algorithms)(#)
 
 
 ### 🚗 **Optimizing Urban Traffic Management with Real-Time Analytics**  
@@ -37,14 +37,14 @@ Focus: Data Structures, Algorithms, Data Science, NLP, and Generative AI
 - Designed a real-time traffic estimation system using **Apache Kafka** and **Federated Learning**.  
 - Integrated **Siamese Networks** for traffic density classification and **privacy-preserving analytics**.  
 - Developed scalable solutions for smart cities and enhanced traffic prediction accuracy.  
-[https://drive.google.com/file/d/1HHNvcNNkd1dcGeYReQ92Rg3pmv1A-EPz/view?usp=sharing](#)
+[Link](https://drive.google.com/file/d/1HHNvcNNkd1dcGeYReQ92Rg3pmv1A-EPz/view?usp=sharing)(#)
 
 ### 🎧 **EchoReads: Smart Audiobook Recommendation System**  
 *August 2024 – November 2024*  
 - Built a **content-based recommendation engine** using **TF-IDF**, **K-Means**, and **cosine similarity**.  
 - Processed over 200,000 metadata entries using **Pandas** and **NumPy**, providing personalized audiobook suggestions.  
 - Deployed the system on **AWS EC2** with **Streamlit** for interactive and scalable usage.  
-[https://github.com/PrashamanP/Smart-Audiobook-Recommendation-System](#)
+[Github](https://github.com/PrashamanP/Smart-Audiobook-Recommendation-System)(#)
 
 
 
@@ -52,7 +52,7 @@ Focus: Data Structures, Algorithms, Data Science, NLP, and Generative AI
 *September 2023 – December 2023*  
 - Created a **web-based job portal** with gesture control and AI-powered chat support for the physically challenged.  
 - Integrated **eye-control API** and **AI chatbot** to improve accessibility.  
-[https://github.com/PrashamanP/A-Job-Portal-for-Physically-Challenged-People-](#)
+[Github](https://github.com/PrashamanP/A-Job-Portal-for-Physically-Challenged-People-)(#)
 
 ## 💼 Work Experience
 
@@ -61,7 +61,7 @@ Focus: Data Structures, Algorithms, Data Science, NLP, and Generative AI
 - Developed a dynamic student dashboard using **React**, **Tailwind CSS**, and **MongoDB**.  
 - Integrated **OpenAI API** for AI-driven features like **OCR extraction** and **syllabus parsing**.  
 - Engineered user authentication flows using **OAuth**, **Node.js**, and **Express.js**.  
-[https://drive.google.com/file/d/1sw4wQWIy5HOlfDImIXum7oIupNNuiTcA/view?usp=sharing](#)
+  [Project Overview](https://drive.google.com/file/d/1sw4wQWIy5HOlfDImIXum7oIupNNuiTcA/view?usp=sharing)(#)
 
 ### **Data Science Intern** – **Gaur Municipality** – Nepal  
 *March 2023 – August 2023*  
