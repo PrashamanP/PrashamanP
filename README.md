@@ -1,104 +1,64 @@
-# Hi there! 👋 I'm Prashaman Pokharel.
+# Hi, I'm Prashaman Pokharel 👋
 
-🚀 **Aspiring Data Scientist | Data Engineer | AI & ML Enthusiast | Software Developer | Problem Solver**
+**AI/ML Engineer · Data Engineer · Software Developer**
 
-I’m currently pursuing my Master's degree in **Information Systems Management** at **Carnegie Mellon University**, with a focus on **Business Intelligence and Data Analytics**. My journey blends a deep understanding of **Data Science, Machine Learning,Big Data and AI** with hands-on experience in **Backend Development** and **Cloud Computing**. I'm passionate about tackling real-world challenges through innovative technologies, and I'm currently seeking a **Summer 2025 Internship** to apply my skills and drive impact!
+Actively looking for **full-time** opportunities (or to **join an early-stage startup**) starting **Jan–Feb 2026**. I’m finishing my **MISM (BI & Data Analytics)** at **Carnegie Mellon University** (Dec 2025).
 
-## 👨‍💻 About Me
+- I build **production-grade AI systems** and **data platforms**: multi-agent data quality pipelines, recommendation services, real-time ingestion, and end-to-end MLOps.
+- Comfortable shipping across the stack: **Python, PyTorch/TensorFlow, SQL, Kafka, Spark, AWS (S3/Glue/ECS/Redshift/Athena), Docker, Airflow/Dagster, FastAPI/Django, Terraform**.
 
-I thrive in environments where I can blend **engineering, analytics, and creative problem-solving** to deliver impactful solutions. Whether it's building intelligent systems, analyzing complex data, or developing scalable applications, I bring a strong **technical foundation** and a commitment to excellence.
+---
 
-🔹 **Current Role**: Engineer at **Tric**, a Carnegie Mellon-based EdTech startup – developing innovative AI-driven features and dynamic dashboards using React, Tailwind CSS, and OpenAI.  
-🔹 **Technical Interests**: AI, Machine Learning, LLM, Data Modeling, Business Intelligence, Data Analytics, Software Engineering, Cloud Computing.  
-🔹 **Looking for**: A summer internship in Data Science| Data Engineer | AI/ML Engineer | Software where I can contribute to meaningful projects while continuing to grow professionally.
+## 🚀 Highlights
 
-## 🎓 Education
+- **AI Engineer (Tech Lead), Techstra Solutions (Healthcare Data Quality)**
+  - Designed a **multi-agent** platform (profiler, anomaly detector, rule validator, fix recommender) with **LangGraph**; produced consolidated data quality reports over **50–100k** sampled records/run.
+  - Built a **Streamlit** stewardship UI with **DuckDB** audit logs, deterministic fix recommendations, and Dockerized pipelines—cut manual cleanup time by **~50%**. :contentReference[oaicite:1]{index=1}
 
-### **Carnegie Mellon University** – Pittsburgh, PA (2024-2025)  
-**Master of Information Systems Management**  
-Focus: Business Intelligence and Data Analytics  
+- **Data & Cloud Solutions Intern, Core Natural Resources**
+  - Shipped **CoreMind**, an AI meeting assistant (**Django REST + Streamlit + LangChain/FAISS + Amazon Bedrock**)—reduced reporting time by **~80%**.
+  - Built a **FastAPI** “train bot”, containerized and deployed on **ECS Fargate**, automating daily ingestions from **4 railroad portals** (saved **12–16 hrs/week**).
+  - Architected **AWS Glue (PySpark)** ETL moving **>5M records/day** from Oracle→S3; created **Iceberg** tables (time travel, faster recovery) and exposed to **Redshift Spectrum** for BI. :contentReference[oaicite:2]{index=2}
 
-### **Vellore Institute of Technology** – Vellore, India (2020-2024)  
-**Bachelor of Technology in Computer Science and Engineering**  
-Focus: Data Structures, Algorithms, Data Science, NLP, and Generative AI  
+- **Software Engineer, Tric (CMU EdTech)**
+  - Implemented AI features with **OpenAI API** (syllabus parsing, flashcards) and **Tesseract OCR**; built pipelines to ingest iCal feeds and notes into a live student dashboard. :contentReference[oaicite:3]{index=3}
 
-## 🔍 Research and Academic Projects
+---
 
+## 🧠 Selected Projects
 
-### ⚖️ **Predicting Body Mass Index (BMI) Using Machine Learning**  
+- **Production-Scale Movie Recommender (1M users, 27K movies)**
+  - Benchmarked popularity+genre vs **ALS MF**; shipped Dockerized inference **<600 ms**, **Kafka** pipelines, CI/CD with drift checks, **Prometheus/Grafana**, canary tests, and automated retraining. :contentReference[oaicite:4]{index=4}
 
-- Developed a classification model to predict BMI categories using **SMOTE** and **XGBoost**.  
-- Processed a dataset of 2,000+ samples with multiple models to increase performance by 30%.  
-  [Github](https://github.com/PrashamanP/Predicting-Body-Mass-Index-BMI-Using-Machine-Learning-Algorithms)(#)
+- **EchoReads – Smart Audiobook Recommendation**
+  - **Content-based** system using **TF-IDF, cosine similarity, K-Means** on **200K+** Audible metadata; deployed on **AWS EC2** with **Streamlit**.  
+  - Code: https://github.com/PrashamanP/Smart-Audiobook-Recommendation-System :contentReference[oaicite:5]{index=5}
 
+---
 
-### 🚗 **Optimizing Urban Traffic Management with Real-Time Analytics**  
+## 🛠️ Tech Stack
 
-- Designed a real-time traffic estimation system using **Apache Kafka** and **Federated Learning**.  
-- Integrated **Siamese Networks** for traffic density classification and **privacy-preserving analytics**.  
-- Developed scalable solutions for smart cities and enhanced traffic prediction accuracy.  
-[Link](https://drive.google.com/file/d/1HHNvcNNkd1dcGeYReQ92Rg3pmv1A-EPz/view?usp=sharing)(#)
+**Languages**: Python, SQL (PostgreSQL/PLSQL), JavaScript/Node.js  
+**ML/Stats**: Regression, Classification, A/B Testing, Causal Inference, Hypothesis Testing, Time Series, Clustering, PCA  
+**Data/Cloud**: AWS (S3, Glue, ECS Fargate, Redshift, Athena, EC2, DynamoDB), GCP (BigQuery, GCS, Vertex AI), Azure  
+**Big Data**: Kafka, Spark (PySpark/SparkSQL), Hadoop (HDFS/MapReduce/YARN), Hive, Flink, Trino/Presto  
+**MLOps & Dev**: Docker, Airflow, Dagster, Terraform, Linux, Git/GitHub Actions/Jenkins, FastAPI, Django, Tableau, Power BI, Looker :contentReference[oaicite:6]{index=6}
 
-### 🎧 **EchoReads: Smart Audiobook Recommendation System**  
+---
 
-- Built a **content-based recommendation engine** using **TF-IDF**, **K-Means**, and **cosine similarity**.  
-- Processed over 200,000 metadata entries using **Pandas** and **NumPy**, providing personalized audiobook suggestions.  
-- Deployed the system on **AWS EC2** with **Streamlit** for interactive and scalable usage.  
-[Github](https://github.com/PrashamanP/Smart-Audiobook-Recommendation-System)(#)
+## 🎓 Education & Teaching
 
+**Carnegie Mellon University** — MISM (BI & Data Analytics), **Dec 2025**  
+Teaching Assistant: **Data Focused Python (95-888), Data Engineering (95-815), Entrepreneurship (94-807)**
 
+**Vellore Institute of Technology** — B.Tech, CSE  
+Relevant coursework: Software Eng, DS&A, NLP, AI, Linear Algebra :contentReference[oaicite:7]{index=7}
 
-### ♿ **InNeed: Job Portal for Physically Challenged Individuals**  
-*September 2023 – December 2023*  
-- Created a **web-based job portal** with gesture control and AI-powered chat support for the physically challenged.  
-- Integrated **eye-control API** and **AI chatbot** to improve accessibility.  
-[Github](https://github.com/PrashamanP/A-Job-Portal-for-Physically-Challenged-People-)(#)
+---
 
-## 💼 Work Experience
+## 📫 Contact
 
-### **Engineer** – **Tric (CMU-Based EdTech Startup)** – Pittsburgh, PA  
-*January 2025 – Present*  
-- Developed a dynamic student dashboard using **React**, **Tailwind CSS**, and **MongoDB**.  
-- Integrated **OpenAI API** for AI-driven features like **OCR extraction** and **syllabus parsing**.  
-- Engineered user authentication flows using **OAuth**, **Node.js**, and **Express.js**.  
-  [Project Overview](https://drive.google.com/file/d/1sw4wQWIy5HOlfDImIXum7oIupNNuiTcA/view?usp=sharing)(#)
+- Email: **ppokhare@andrew.cmu.edu**  
+- LinkedIn: **https://www.linkedin.com/in/prashamanpok**  
 
-### **Data Science Intern** – **Gaur Municipality** – Nepal  
-*March 2023 – August 2023*  
-- Created an automated **ETL pipeline** for processing over 2,000 citizen service requests, improving service response times by 40%.  
-- Analyzed **public health data** using **Tableau** to guide interventions for dengue outbreak control.  
-- Migrated **500+ database objects** from **Snowflake** to **AWS S3** for seamless data management.  
-(#)
-
-## 🛠️ Technical Skills
-
-### **Languages & Frameworks**  
-- **Python** (NumPy, Pandas, Scikit-learn, PyTorch, TensorFlow, Keras), **SQL**, **Java**, , **HTML/CSS**  
-- **Machine Learning** (Regression, Clustering, PCA, Classification, A/B Testing, Statistical Modeling)  
-- **Cloud** (AWS, Kafka, Hadoop, Spark, PySpark)  
-- **Developer Tools** (Git, Jenkins, VS Code, Docker, Selenium, Scrapy)
-
-### **Technologies & Platforms**  
-- **Apache Kafka**, **Hadoop**, **AWS S3/ECS**, **Tableau**, **Power BI**, **MongoDB**, **Streamlit**, **Flask**
-
-## 🏆 Leadership & Extracurricular Activities
-
-- **Core Committee Member** – **CMU Graduate Entrepreneurship Club** & **Heinz Data Analytics Club**  
-- **Hackathon Champion** – Multiple wins at **Tartan Hackathon**, **Smart India Hackathon**, and other internal hackathons.  
-- **Mathematics Tutor** – **Personalized Learning Squared**, affiliated with **CMU** and **Stanford University**.
-
-### **Awards & Recognitions**  
-- **STUDY IN INDIA Scholarship** – Merit-based award of $12,000.
-- **CMU Merit Scholarship**- Award of 20% of tuition fee
-- **MUN/Debate Achievements** – Victory in national and international Model United Nations and debate events.  
-- **Community Service Awards** – Recognized for outstanding volunteer efforts with NGOs and government organizations.
-
-## 📬 Let's Connect!  
-I’m always open to discussions, collaborations, or exciting opportunities! Feel free to reach out via [email](mailto:ppokhare@andrew.cmu.edu) or connect with me on [LinkedIn](https://www.linkedin.com/in/prashamanpok). 
-
-Let’s create something amazing together!
-
-
-
-
-
+If you’re hiring for **AI/ML Engineer**, **Data Engineer**, or **Software Developer** roles—or building something bold at a startup—let’s talk!
