@@ -10,12 +10,14 @@ Actively looking for **full-time** opportunities (or to **join an early-stage st
 ---
 
 ## 🔎 Explore My Work
-Instead of a long project list here, **please check my repositories** (pinned + recent) for hands-on work in:
+Instead of a long project list here, **please check my repositories** for hands-on work in:
+- **Data Science** (experimentation, causal inference, product analytics, feature engineering, visualization)
 - **AI/ML** (training, inference, evaluation, drift/monitoring)
 - **Data Engineering** (streaming, batch ETL, warehousing/lakehouse)
 - **Backend/Platforms** (APIs, containers, CI/CD)
 
-👉 Head to my **Pinned Repos** on this profile to see representative code and readmes.
+
+👉 Head to my **Repos** on this profile to see representative code and readmes.
 
 ---
 
@@ -34,7 +36,7 @@ Instead of a long project list here, **please check my repositories** (pinned + 
 **Carnegie Mellon University** — MISM (BI & Data Analytics), **Dec 2025**  
 Teaching Assistant: **Data Focused Python (95-888)**, **Data Engineering (95-815)**, **Entrepreneurship (94-807)**
 
-**Vellore Institute of Technology** — B.Tech, Computer Science & Engineering
+**Vellore Institute of Technology** — B.Tech, Computer Science & Engineering **July 2024**  
 
 ---
 
