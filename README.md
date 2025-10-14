@@ -2,7 +2,7 @@
 
 **AI/ML Engineer · Data Engineer · Software Developer**
 
-Actively looking for **full-time** opportunities (or to **join an early-stage startup**) starting **Jan–Feb 2026**. I’m finishing my **MISM (BI & Data Analytics)** at **Carnegie Mellon University** (Dec 2025).
+Actively looking for **full-time** opportunities (or to **join an early-stage startup**) starting **Feb 2026**. I’m finishing my **MISM (BI & Data Analytics)** at **Carnegie Mellon University** (Dec 2025).
 
 - I build **production-grade AI systems** and **data platforms**: multi-agent data quality pipelines, recommendation services, real-time ingestion, and end-to-end MLOps.
 - Comfortable shipping across the stack: **Python, PyTorch/TensorFlow, SQL, Kafka, Spark, AWS (S3/Glue/ECS/Redshift/Athena), Docker, Airflow/Dagster, FastAPI/Django, Terraform**.
