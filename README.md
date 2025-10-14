@@ -26,21 +26,21 @@ Focus: Data Structures, Algorithms, Data Science, NLP, and Generative AI
 
 
 ### ⚖️ **Predicting Body Mass Index (BMI) Using Machine Learning**  
-*September 2023 – December 2023*  
+
 - Developed a classification model to predict BMI categories using **SMOTE** and **XGBoost**.  
 - Processed a dataset of 2,000+ samples with multiple models to increase performance by 30%.  
   [Github](https://github.com/PrashamanP/Predicting-Body-Mass-Index-BMI-Using-Machine-Learning-Algorithms)(#)
 
 
 ### 🚗 **Optimizing Urban Traffic Management with Real-Time Analytics**  
-*January 2024 – April 2024*  
+
 - Designed a real-time traffic estimation system using **Apache Kafka** and **Federated Learning**.  
 - Integrated **Siamese Networks** for traffic density classification and **privacy-preserving analytics**.  
 - Developed scalable solutions for smart cities and enhanced traffic prediction accuracy.  
 [Link](https://drive.google.com/file/d/1HHNvcNNkd1dcGeYReQ92Rg3pmv1A-EPz/view?usp=sharing)(#)
 
 ### 🎧 **EchoReads: Smart Audiobook Recommendation System**  
-*August 2024 – November 2024*  
+
 - Built a **content-based recommendation engine** using **TF-IDF**, **K-Means**, and **cosine similarity**.  
 - Processed over 200,000 metadata entries using **Pandas** and **NumPy**, providing personalized audiobook suggestions.  
 - Deployed the system on **AWS EC2** with **Streamlit** for interactive and scalable usage.  
