@@ -1,6 +1,6 @@
 # Hi, I'm Prashaman Pokharel 👋
 
-**AI/ML Engineer · Software Developer   ·Data Engineer · Data Scientist ·**
+**AI/ML Engineer · Software Developer · Data Engineer · Data Scientist**
 
 Actively looking for **full-time** opportunities (or to **join an early-stage startup**) starting **Feb 2026**. I’m completing my **MISM (BI & Data Analytics)** at **Carnegie Mellon University** in **Dec 2025**.
 
