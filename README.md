@@ -1,6 +1,6 @@
 # Hi, I'm Prashaman Pokharel 👋
 
-I’m an engineer working at the intersection of AI, data engineering, and backend systems. I build production-grade AI systems and data platforms, from real-time ingestion and analytics to model training, deployment, and monitoring.
+I’m an engineer working at the intersection of AI, data, and backend systems. I build production-grade AI systems and data platforms, from real-time ingestion and analytics to model training, deployment, and monitoring.
 
 
 I’m actively seeking full-time opportunities (or to join an early-stage startup) starting Feb 2026. I completed my MISM (BI & Data Analytics) at Carnegie Mellon University in Dec 2025.
