@@ -1,11 +1,9 @@
 # Hi, I'm Prashaman Pokharel 👋
 
-I’m an engineer working at the intersection of AI, data engineering, and backend systems. I build production-grade AI systems and data platforms, from real-time ingestion and analyticsto model training, deployment, and monitoring.
+I’m an engineer working at the intersection of AI, data engineering, and backend systems. I build production-grade AI systems and data platforms, from real-time ingestion and analytics to model training, deployment, and monitoring.
 
 
-Actively looking for **full-time** opportunities (or to **join an early-stage startup**) starting **Feb 2026**. I’m completing my **MISM (BI & Data Analytics)** at **Carnegie Mellon University** in **Dec 2025**.
-
-
+I’m actively seeking full-time opportunities (or to join an early-stage startup) starting Feb 2026. I completed my MISM (BI & Data Analytics) at Carnegie Mellon University in Dec 2025.
 
 ---
 
@@ -45,4 +43,4 @@ Teaching Assistant: **Data Focused Python (95-888)**, **Data Engineering (95-815
 - **Email:** ppokhare@andrew.cmu.edu  
 - **LinkedIn:** https://www.linkedin.com/in/prashamanpok
 
-If you’re hiring for **AI/ML Engineer**, **Data Engineer**, **Data Scientist**, or **Software Developer** roles—or building something bold at a startup—let’s talk!
+If you’re hiring or building something bold at a startup—let’s talk!
