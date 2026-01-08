@@ -1,11 +1,11 @@
 # Hi, I'm Prashaman Pokharel 👋
 
-**AI/ML Engineer · Software Developer · Data Engineer · Data Scientist**
+I’m an engineer working at the intersection of AI, data engineering, and backend systems. I build production-grade AI systems and data platforms, from real-time ingestion and analyticsto model training, deployment, and monitoring.
+
 
 Actively looking for **full-time** opportunities (or to **join an early-stage startup**) starting **Feb 2026**. I’m completing my **MISM (BI & Data Analytics)** at **Carnegie Mellon University** in **Dec 2025**.
 
-- I build production-grade **AI systems** and **data platforms** (real-time ingestion, analytics, MLOps).
-- Comfortable across the stack: **Python, SQL, PyTorch/TensorFlow, Kafka, Spark, AWS (S3/Glue/ECS/Redshift/Athena), Docker, Airflow/Dagster, FastAPI/Django**.
+
 
 ---
 
