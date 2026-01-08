@@ -40,7 +40,7 @@ Teaching Assistant: **Data Focused Python (95-888)**, **Data Engineering (95-815
 
 ## 📫 Contact
 
-- **Email:** ppokhare@andrew.cmu.edu  
+- **Email:** prashaman2202@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/prashamanpok
 
 If you’re hiring or building something bold at a startup—let’s talk!
