@@ -31,7 +31,7 @@ Instead of a long project list here, **please check my repositories** for hands-
 
 ## 🎓 Education & Teaching
 
-**Carnegie Mellon University** — Master's Information Systems Management, Business Intelligence and Data Analytics **Dec 2025**  
+**Carnegie Mellon University** — Master's, Information Systems Management, Business Intelligence and Data Analytics **Dec 2025**  
 Teaching Assistant: **Data Focused Python (95-888)**, **Data Engineering (95-815)**, **Entrepreneurship (94-807)**
 
 **Vellore Institute of Technology** — B.Tech, Computer Science & Engineering **July 2024**  
