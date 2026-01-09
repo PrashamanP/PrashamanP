@@ -15,7 +15,8 @@ Instead of a long project list here, **please check my repositories** for hands-
 - **Backend/Platforms** (APIs, containers, CI/CD)
 
 
-👉 Head to my **Repos** on this profile to see representative code and readmes.
+👉 Explore my **[Repositories](https://github.com/PrashamanP?tab=repositories)** for representative systems, code, and documentation.
+ 
 
 ---
 
